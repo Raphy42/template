@@ -11,7 +11,7 @@ import (
 
 	"github.com/mailgun/raymond"
 
-	"github.com/gofiber/template/utils"
+	"github.com/Raphy42/template/utils"
 )
 
 // Engine struct
