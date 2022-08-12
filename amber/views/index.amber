@@ -1,5 +1,0 @@
-import ./views/partials/header
-
-h1 #{Title}
-
-import ./views/partials/footer

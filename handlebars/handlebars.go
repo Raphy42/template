@@ -9,7 +9,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/aymerick/raymond"
+	"github.com/mailgun/raymond"
+
 	"github.com/gofiber/template/utils"
 )
 

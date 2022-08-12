@@ -1,5 +1,0 @@
-{% if isAdmin(user) %}
-<h1>Hello, Admin!</h1>
-{% else %}
-<h1>Access denied!</h1>
-{% endif %}
